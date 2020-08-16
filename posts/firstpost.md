@@ -1,6 +1,6 @@
 ---
 title: This is my first post
-date: 2015-01-01T00:00:00.000Z
+date: 2020-08-16T18:23:12.325Z
 author: Jane Doe
 summary: Why contemplating our mortality can be a powerful catalyst for change
 tags:
